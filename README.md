@@ -1,6 +1,6 @@
 ### ab-ble-gateway-golang
 
-> 开发状态请勿使用
+> building...
 
 
 ## install
