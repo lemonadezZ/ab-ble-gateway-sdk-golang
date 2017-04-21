@@ -5,6 +5,5 @@ import (
 )
 
 func main(){
-	fmt.Println("hello gateway");
+	fmt.Println("hello gateway")
 }
-
